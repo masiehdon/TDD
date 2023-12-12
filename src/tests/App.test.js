@@ -133,3 +133,4 @@ describe("Render app and game functionality works as expected", () => {
     expect(correctColor).not.toEqual(newCorrectColor);
   });
 });
+ 

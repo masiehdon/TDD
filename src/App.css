@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    margin: auto;
+    justify-content: center;
+    display: flex;
+}
+
+.button-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+}
+
+.btn {
+    margin-top: 25px;
+    margin-bottom: 25px;
+   
+}
+
+.header {
+    justify-content: center;
+    display: flex;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.correct-guesses-in-a-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.wrongGuess{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
